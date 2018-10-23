@@ -1,0 +1,56 @@
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "LocalBusiness",
+  "name" : "SOS-Computer",
+  "telephone" : "(+39)347-4618653",
+  "email" : "info@coarbri.it",
+  "priceRange" : "&euro; modico",
+  "image": [
+      "https://www.coarbri.it/sos-computer/assistenza/data/sos-computer.png"
+      ],
+      "address" : {
+         "@type" : "PostalAddress",
+         "streetAddress" : "via Roma 28",
+         "addressLocality" : "Inverigo",
+         "addressRegion" : "Lombardia",
+         "addressCountry" : "Italia",
+         "postalCode" : "22044"
+      },
+      "openingHoursSpecification" : {
+         "@type" : "OpeningHoursSpecification",
+         "opens" : "09:00",
+         "closes" : "18:00"
+      },
+      "aggregateRating": {
+         "@type": "AggregateRating",
+         "ratingValue": "4.8",
+         "reviewCount": "46"
+      }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.coarbri.it",
+  "logo": "https://www.coarbri.it/sos-computer/assistenza/data/sos-computer.png",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "(+39)347-4618653",
+    "contactType": "customer service"
+  }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "giovanni",
+  "url": "http://www.coarbri.it",
+  "sameAs": [
+    "https://www.facebook.com/Assistenza-Pc-Smartphones-Tablets-278941075605985"
+  ]
+}
+</script>
